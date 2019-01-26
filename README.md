@@ -1,5 +1,6 @@
 
 
+
 # Project 3: Collaboration and Competition
 
 
@@ -30,7 +31,7 @@ ddpg.py defines the agent class
 model.py defines the deep neural network models for both 'Actor' and 'Critic' neural networks.  
 
 
-## Instructions:
+## Instructions for download:
 1.Download all three files, Tennis.ipynb, ddpg.py and model.py
 
-2.Execute the codes in Tennis.ipynb 
+2.Execute the codes in Tennis.ipynb to train the agents
